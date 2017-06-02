@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\rahar\Downloads\HomemadeChef\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a1d5127f466b1e8aca21d52c11ca8f980276d27f">
+        <dex dex="C:\Users\rahar\Downloads\HomemadeChef\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f9ba047733b82fdef94f197ccd4d3e5db83fcba7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rahar\Downloads\HomemadeChef\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\rahar\Downloads\HomemadeChef\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_07d8fd80592628de268254a0a342340e5ac79f80\classes.dex" />
+    </item>
+
+</items>
